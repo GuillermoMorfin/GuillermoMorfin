@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Guillermo 👋
 
 **ERP & AI Consultant turned Analytics and AI student**
