@@ -1,4 +1,4 @@
-# Hi, I'm Guillermo 👋
+# Hi, I'm Guillermo Morfin
 
 **ERP & AI Consultant turned Analytics and AI student**
 📍 Berlin, Germany · 🎓 MAAI @ ESMT Berlin
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a Master in Analytics and Artificial Intelligence (MAAI) student at **ESMT Berlin**, bringing a hands-on background in ERP systems, data warehousing, and applied AI.
 
